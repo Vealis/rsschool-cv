@@ -42,4 +42,4 @@ function multiply(a, b) {
 
 ## English
 
-    Beginner (I use a translator, but in the future I want to learn English
+    Beginner (I use a translator, but in the future I want to learn English)
