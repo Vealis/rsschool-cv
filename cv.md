@@ -20,3 +20,15 @@
 
 - HTML Basic
 - CSS Basic
+
+## Code Example
+
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
+
+## Experience
+
+[My CV](https://github.com/Vealis/rsschool-cv/blob/gh-pages/cv.md)
