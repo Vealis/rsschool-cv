@@ -1,1 +1,1 @@
-https://Vealis.github.io/rsschool-cv/cv
+https://Vealis.github.io/rsschool-cv/
