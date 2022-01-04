@@ -32,3 +32,14 @@ function multiply(a, b) {
 ## Experience
 
 [My CV](https://github.com/Vealis/rsschool-cv/blob/gh-pages/cv.md)
+
+## Education
+
+- **University:**
+  - SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL, Engineer
+  - Belarusian Trade and Economic University of Consumer Cooperatives, Logistic
+- **Course:** [WayUp](https://wayup.in/), Web coder: getting started.
+
+## English
+
+    Beginner (I use a translator, but in the future I want to learn English
