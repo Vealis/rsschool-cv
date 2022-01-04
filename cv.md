@@ -15,3 +15,8 @@
     My goal is to learn Frontend development and start a new career.
     I am punctual and like to bring things to the ideal, sociable, I want to learn and develop in the field of IT technology.
     I hope that Rs School will help me make it faster and point out all my mistakes.
+
+## Skills
+
+- HTML Basic
+- CSS Basic
