@@ -10,6 +10,8 @@
 }
 * {
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 body {
   display: flex;
@@ -28,6 +30,11 @@ body {
   padding: 0 20px;
   line-height: 50px;
   transition: 0.3s;
+  background: linear-gradient(to left, grey, white);
+}
+.nav-item {
+  border: 1px solid black;
+  padding: 0px 40px;
 }
 html {
   scroll-behavior: smooth;
@@ -57,4 +64,40 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #22835e;
+}
+main {
+  background: linear-gradient(to left, grey, white);
+  color: black;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+}
+#Name {
+  padding-top: 100px;
+}
+#contacts {
+  padding-top: 100px;
+}
+#About {
+  padding-top: 100px;
+}
+#skills {
+  padding-top: 100px;
+}
+#Code {
+  padding-top: 100px;
+}
+#Projects {
+  padding-top: 100px;
+}
+#Education {
+  padding-top: 100px;
+}
+#Languages {
+  padding-top: 100px;
 }
