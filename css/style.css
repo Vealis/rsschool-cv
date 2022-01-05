@@ -40,13 +40,11 @@ html {
   scroll-behavior: smooth;
 }
 .section-item a {
-  color: #117e1f;
+  color: black;
   text-decoration: none;
   transition: color 0.5s;
 }
-.section-item a:hover {
-  color: #18a336;
-}
+
 .contacts {
   font-weight: bold;
 }
@@ -63,7 +61,7 @@ body {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
-  color: #22835e;
+  color: black;
 }
 main {
   background: linear-gradient(to left, grey, white);
