@@ -22,7 +22,7 @@ body {
 }
 .nav-list {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   align-items: center;
   list-style: none;
   padding: 0 20px;
@@ -33,10 +33,28 @@ html {
   scroll-behavior: smooth;
 }
 .section-item a {
-  color: #829985;
+  color: #117e1f;
   text-decoration: none;
   transition: color 0.5s;
 }
 .section-item a:hover {
-  color: #4d2323;
+  color: #18a336;
+}
+.contacts {
+  font-weight: bold;
+}
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #22835e;
 }
